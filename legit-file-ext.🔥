@@ -1,0 +1,2 @@
+def utf8ValidExtensionName():
+    print("🔥 is a valid file extension !")
